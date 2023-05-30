@@ -19,7 +19,7 @@ Step 5 : Display the statements from the first and secomd Class using Solution C
 
 ## Program
 
-
+```
 public class Employee
 {
     public void display(){
@@ -43,6 +43,7 @@ public class Solution {
         emp3.employee("John",1999,"50k","26B-WallStreet");
     }
 }
+```
 ## Output
 ![image](https://github.com/balaji-21005757/Experiment-5/assets/94372294/dd201241-b764-4ef8-9799-4f508cee100d)
 ## Result
